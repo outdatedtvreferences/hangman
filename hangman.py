@@ -1,3 +1,6 @@
+# Hangman
+# David B.
+
 def get_puzzle():
     return "hangman"
 
@@ -23,13 +26,13 @@ def show_result():
     print("You Win!")
 
 def show_credits():
-    pass
+    print("This awesome game was created by David Burton")
 
 def play_again():
     pass
     
 def play():
-    puzzle = get_puzzle""
+    puzzle = get_puzzle
     guesses = ""
     solved = get_solved(puzzle, guesses)
 
