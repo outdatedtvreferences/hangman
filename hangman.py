@@ -53,6 +53,6 @@ def play():
         display_board(solved)
 
     show_result()
-play()
-    
-play()
+    play()
+
+    play()
